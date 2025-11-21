@@ -62,9 +62,6 @@ Rust, Go, TypeScript, and more. Built for speed and developer productivity.
 Feel free to explore my repositories and reach out if you'd like to
 collaborate on developer tools or Linux customization projects.
 
-📧 [rai.anwaya@gmail.com](mailto:rai.anwaya@gmail.com) |
-💼 [LinkedIn](https://www.linkedin.com/in/akr411/)
-
 ---
 
 _Building tools one commit at a time_ 🔧
