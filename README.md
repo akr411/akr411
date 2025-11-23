@@ -8,9 +8,10 @@ Bengaluru, India
 
 ## About Me
 
-I'm a software engineer passionate about building efficient developer tools.
-I love working close to the terminal, automating workflows,
-and creating tools that make developers' lives easier.
+Software engineer allergic to GUIs. My muscle memory types `<Escape>` `:wq`
+before my brain realizes I'm not in Vim. I've tried using my mouse exactly
+twice this year. I navigate file systems faster than I navigate social
+situations.
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=10x+Terminal+Enjoyer;Vim+Keybindings+Everywhere;make+%26%26+make+install" alt="Typing SVG" />
@@ -28,7 +29,7 @@ and creating tools that make developers' lives easier.
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akr411&layout=donut&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akr411&layout=donut&hide_border=true&bg_color=00000000&title_color=58a6ff&icon_color=58a6ff&langs_count=6" alt="Top Languages" />
 
 ### Tools & Environment
 
@@ -43,20 +44,20 @@ and creating tools that make developers' lives easier.
 
 ## Notable Projects
 
-### [doit](https://github.com/akr411/doit)
+<p align="left">
+<a href="https://github.com/akr411/doit">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=akr411&repo=doit&hide_border=true&bg_color=00000000&title_color=58a6ff&icon_color=58a6ff" alt="doit" />
+</a>
+<a href="https://github.com/akr411/dotfiles">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=akr411&repo=dotfiles&hide_border=true&bg_color=00000000&title_color=58a6ff&icon_color=58a6ff" alt="dotfiles" />
+</a>
+</p>
 
-A terminal-based todo application built with Go and the Bubbletea framework.
-Bringing task management right into your terminal.
-
-### [dotfiles](https://github.com/akr411/dotfiles)
-
-My personal Linux configuration files for Sway, Waybar, tmux, Neovim, and
-more. Optimized for a productive workflow on Fedora.
-
-### [neovim-config](https://github.com/akr411/neovim-config)
-
-Fully-configured Neovim setup with LSP support, formatting, and linting for
-Rust, Go, Python, TypeScript, and more...
+<p align="left">
+<a href="https://github.com/akr411/neovim-config">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=akr411&repo=neovim-config&hide_border=true&bg_color=00000000&title_color=58a6ff&icon_color=58a6ff" alt="neovim-config" />
+</a>
+</p>
 
 ## Let's Connect
 
