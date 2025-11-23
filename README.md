@@ -58,15 +58,9 @@ more. Optimized for a productive workflow on Fedora.
 Fully-configured Neovim setup with LSP support, formatting, and linting for
 Rust, Go, Python, TypeScript, and more...
 
-## Currently Learning
-
-- Rust Systems Programming
-- Advanced Go Patterns
-
 ## Let's Connect
 
-Feel free to explore my repositories and reach out if you'd like to
-collaborate on developer tools or Linux customization projects.
+Feel free to explore my repositories and reach out if you'd like to collaborate.
 
 ---
 
