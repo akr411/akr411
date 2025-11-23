@@ -13,7 +13,7 @@ I love working close to the terminal, automating workflows,
 and creating tools that make developers' lives easier.
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=10x+Terminal+Enjoyer;Turning+Coffee+into+CLI+Tools;while(true)+%7B+code();+%7D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=380&lines=10x+Terminal+Enjoyer;Turning+Coffee+into+CLI+Tools;while(true)+%7B+code();+%7D" alt="Typing SVG" />
 </p>
 
 ## Tech Stack
