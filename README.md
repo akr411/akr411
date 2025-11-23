@@ -29,7 +29,7 @@ situations.
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akr411&layout=donut&hide_border=true&bg_color=f6f8fa&title_color=58a6ff&icon_color=58a6ff&langs_count=6" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akr411&layout=donut&hide_border=true&bg_color=161b22&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&langs_count=6" alt="Top Languages" />
 
 ### Tools & Environment
 
@@ -46,16 +46,15 @@ situations.
 
 <p align="left">
 <a href="https://github.com/akr411/doit">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=akr411&repo=doit&hide_border=true&bg_color=f6f8fa&title_color=58a6ff&icon_color=58a6ff" alt="doit" />
-</a>&nbsp;&nbsp;
-<a href="https://github.com/akr411/dotfiles">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=akr411&repo=dotfiles&hide_border=true&bg_color=f6f8fa&title_color=58a6ff&icon_color=58a6ff" alt="dotfiles" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=akr411&repo=doit&hide_border=true&bg_color=161b22&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="doit" />
+</a> <a href="https://github.com/akr411/dotfiles">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=akr411&repo=dotfiles&hide_border=true&bg_color=161b22&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="dotfiles" />
 </a>
 </p>
 
 <p align="left">
 <a href="https://github.com/akr411/neovim-config">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=akr411&repo=neovim-config&hide_border=true&bg_color=f6f8fa&title_color=58a6ff&icon_color=58a6ff" alt="neovim-config" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=akr411&repo=neovim-config&hide_border=true&bg_color=161b22&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="neovim-config" />
 </a>
 </p>
 
