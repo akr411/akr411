@@ -6,15 +6,15 @@ Bengaluru, India
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akr411/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rai.anwaya@gmail.com)
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Backend+Developer+%7C+CLI+Enthusiast;Building+Tools+Developers+Love;Terminal+is+my+Canvas+%F0%9F%92%BB" alt="Typing SVG" />
-</p>
-
 ## About Me
 
 I'm a software engineer passionate about building efficient developer tools.
 I love working close to the terminal, automating workflows,
 and creating tools that make developers' lives easier.
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Backend+Developer+%7C+CLI+Enthusiast;Building+Tools+Developers+Love;Terminal+is+my+Canvas+%F0%9F%92%BB" alt="Typing SVG" />
+</p>
 
 ## 🛠️ Tech Stack
 
@@ -38,13 +38,6 @@ and creating tools that make developers' lives easier.
 ![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
 ![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=flat-square&logo=fedora&logoColor=white)
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
-
-### Focus Areas
-
-CLI/TUI Development • Systems Programming • Linux Customization •
-Developer Tooling
-
-### Top Languages
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akr411&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" />
