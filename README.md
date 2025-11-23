@@ -13,7 +13,7 @@ I love working close to the terminal, automating workflows,
 and creating tools that make developers' lives easier.
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Backend+Developer+%7C+CLI+Enthusiast;Building+Tools+Developers+Love;Terminal+is+my+Canvas+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=10x+Terminal+Enjoyer+%F0%9F%98%85;Turning+Coffee+into+CLI+Tools+%E2%98%95;while(true)+%7B+code();+%7D+%F0%9F%94%84" alt="Typing SVG" />
 </p>
 
 ## 🛠️ Tech Stack
@@ -28,6 +28,10 @@ and creating tools that make developers' lives easier.
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akr411&layout=donut&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6" alt="Top Languages" />
+</p>
+
 ### Tools & Environment
 
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
@@ -38,10 +42,6 @@ and creating tools that make developers' lives easier.
 ![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
 ![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=flat-square&logo=fedora&logoColor=white)
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akr411&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" />
-</p>
 
 ## 🚀 Notable Projects
 
