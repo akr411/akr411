@@ -1,4 +1,4 @@
-# Hi there, I'm Anwaya Rai 👋
+# Hi there, I'm Anwaya Rai
 
 **Software Engineer @ [Rakuten India](https://payment.rakuten.co.jp/en)** |
 Bengaluru, India
@@ -13,10 +13,10 @@ I love working close to the terminal, automating workflows,
 and creating tools that make developers' lives easier.
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=10x+Terminal+Enjoyer+%F0%9F%98%85;Turning+Coffee+into+CLI+Tools+%E2%98%95;while(true)+%7B+code();+%7D+%F0%9F%94%84" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=10x+Terminal+Enjoyer;Turning+Coffee+into+CLI+Tools;while(true)+%7B+code();+%7D" alt="Typing SVG" />
 </p>
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
 
@@ -28,9 +28,7 @@ and creating tools that make developers' lives easier.
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akr411&layout=donut&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6" alt="Top Languages" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akr411&layout=donut&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6" alt="Top Languages" />
 
 ### Tools & Environment
 
@@ -43,7 +41,7 @@ and creating tools that make developers' lives easier.
 ![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=flat-square&logo=fedora&logoColor=white)
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
 
-## 🚀 Notable Projects
+## Notable Projects
 
 ### [doit](https://github.com/akr411/doit)
 
@@ -60,16 +58,16 @@ more. Optimized for a productive workflow on Fedora.
 Fully-configured Neovim setup with LSP support, formatting, and linting for
 Rust, Go, Python, TypeScript, and more...
 
-## 🌱 Currently Learning
+## Currently Learning
 
 - Rust Systems Programming
 - Advanced Go Patterns
 
-## 📫 Let's Connect
+## Let's Connect
 
 Feel free to explore my repositories and reach out if you'd like to
 collaborate on developer tools or Linux customization projects.
 
 ---
 
-_Building tools one commit at a time_ 🔧
+_Building tools one commit at a time_
