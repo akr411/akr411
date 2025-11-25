@@ -27,7 +27,7 @@ situations.
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=akr411&layout=donut&hide_border=true&bg_color=161b22&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&langs_count=6"><source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=akr411&layout=donut&hide_border=true&bg_color=f6f8fa&title_color=0969da&text_color=24292f&icon_color=0969da&langs_count=6"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akr411&layout=donut&hide_border=true&bg_color=161b22&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&langs_count=6" alt="Top Languages" /></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=akr411&layout=pie&hide_border=true&bg_color=161b22&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&langs_count=6"><source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=akr411&layout=pie&hide_border=true&bg_color=f6f8fa&title_color=0969da&text_color=24292f&icon_color=0969da&langs_count=6"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akr411&layout=pie&hide_border=true&bg_color=161b22&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&langs_count=6" alt="Top Languages" /></picture>
 
 ### Tools & Environment
 
