@@ -13,7 +13,7 @@ before my brain realizes I'm not in Vim. I've tried using my mouse exactly
 twice this year. I navigate file systems faster than I navigate social
 situations.
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=58A6FF&center=false&vCenter=true&width=500&lines=%3E+10x+Terminal+Enjoyer;%3E+Vim+Keybindings+Everywhere;%3E+make+%26%26+make+install" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=58A6FF&center=false&vCenter=true&width=500&lines=%3E+10x+Terminal+Enjoyer;%3E+Vim+Keybindings+Everywhere;%3E+make+%26%26+make+install;%3E+linux+rice+enthusiast;%3E+tiling+window+manager+evangelist" alt="Typing SVG" />
 
 ## Tech Stack
 
