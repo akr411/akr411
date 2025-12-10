@@ -1,0 +1,13 @@
+{
+  "config": {
+    "MD033": {
+      "allowed_elements": ["p", "img", "br", "a", "div", "picture", "source"]
+    },
+    "MD013": {
+      "line_length": 1500,
+      "code_blocks": false,
+      "tables": false
+    },
+    "MD036": false
+  }
+}
